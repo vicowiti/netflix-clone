@@ -7,7 +7,7 @@
   padding: 20px;
   z-index: 1;
 
-  /* annimations */
+  /* animations */
   transition-timing-function: ease-in;
   transition: all 0.5s;
 }

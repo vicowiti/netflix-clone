@@ -7,5 +7,5 @@
 - ✅Get all the movies
 - ✅Build the rows
 - ✅Build the Banner
-- Build navbar
+- ✅Build navbar
 - Add trailer popups
